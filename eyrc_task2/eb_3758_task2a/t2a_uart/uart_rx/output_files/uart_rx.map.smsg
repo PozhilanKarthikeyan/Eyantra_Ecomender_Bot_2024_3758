@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at uart_rx.v(62): always construct contains both blocking and non-blocking assignments File: C:/intelFPGA_lite/20.1/Sequence_detector/t2a_uart/uart_rx/code/uart_rx.v Line: 62

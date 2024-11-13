@@ -1,0 +1,347 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/simulation/modelsim
+vadder
+Z1 !s110 1730832031
+!i10b 1
+!s100 jXE67fZjiCj2W4l?`i:H?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IklKXO];@mZECgCcNngnO93
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1728050159
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/adder.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/adder.v
+!i122 11
+L0 4 8
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1730832031.000000
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/adder.v|
+!i113 1
+Z7 o-vlog01compat -work work
+Z8 !s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components
+Z9 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 ebfmlm`7biJDb9h@k<lH11
+R2
+ITM0Ym:_2L=OVeZIcMLW]F0
+R3
+R0
+w1729677978
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/alu.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/alu.v
+!i122 10
+L0 4 63
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/alu.v|
+!i113 1
+R7
+R8
+R9
+vcontroller
+Z10 !s110 1730832030
+!i10b 1
+!s100 2z]Q=Td9^;nA14OzR^PFO2
+R2
+IO[=<SJUWXIXmAaAKHCA4Z0
+R3
+R0
+w1729647514
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/main_decoder.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/main_decoder.v
+!i122 7
+L0 14 49
+R5
+r1
+!s85 0
+31
+Z11 !s108 1730832030.000000
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/main_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/main_decoder.v|
+!i113 1
+R7
+R8
+R9
+vdata_mem
+R10
+!i10b 1
+!s100 9^FM5U?1cgYWgC`abYG]j1
+R2
+IVWB3KFQbgXhljnn4CeUeO3
+R3
+R0
+w1730831891
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/data_mem.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/data_mem.v
+!i122 2
+L0 4 127
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/data_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/data_mem.v|
+!i113 1
+R7
+Z12 !s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code
+R9
+vdatapath
+R1
+!i10b 1
+!s100 IM?[@DAYjF<m<h_6QjFAm2
+R2
+IB^g?o2o4UJHQ0hGagC^Ai3
+R3
+R0
+w1729647533
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/datapath.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/datapath.v
+!i122 9
+L0 3 45
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/datapath.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/datapath.v|
+!i113 1
+R7
+R8
+R9
+vimm_extend
+R1
+!i10b 1
+!s100 KCY0HN8a_SDDT@o^3341e2
+R2
+I>DQ>cE4b;nOB71;5[HeAh3
+R3
+R0
+R4
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/imm_extend.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/imm_extend.v
+!i122 8
+L0 3 21
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/imm_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/imm_extend.v|
+!i113 1
+R7
+R8
+R9
+vinstr_mem
+R1
+!i10b 1
+!s100 0A[J39=K0;f[XCT54h:e^0
+R2
+I0[`nJ4;fQb4`U3>R^2VDL1
+R3
+R0
+w1730804008
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/instr_mem.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/instr_mem.v
+!i122 12
+L0 4 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/instr_mem.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/instr_mem.v|
+!i113 1
+R7
+R12
+R9
+vmux2
+R10
+!i10b 1
+!s100 O<Ld`3jD6QL?6PIEe_QAk1
+R2
+IInQ9oV3f<>dglT_VkgY<X3
+R3
+R0
+R4
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux2.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux2.v
+!i122 6
+Z13 L0 4 9
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux2.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux2.v|
+!i113 1
+R7
+R8
+R9
+vmux4
+R10
+!i10b 1
+!s100 V4YdM>hK^I8CMb?cH8Cej3
+R2
+IhTG=gOZ7l^ZVK[i?keGzI1
+R3
+R0
+w1728737446
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux4.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux4.v
+!i122 5
+R13
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux4.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/mux4.v|
+!i113 1
+R7
+R8
+R9
+vreg_file
+R10
+!i10b 1
+!s100 z2]InGk0[gjzdlc7_WWYI1
+R2
+I6ja;C1E7I0zn5eE4]Ql401
+R3
+R0
+R4
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reg_file.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reg_file.v
+!i122 4
+L0 8 27
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reg_file.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reg_file.v|
+!i113 1
+R7
+R8
+R9
+vreset_ff
+R10
+!i10b 1
+!s100 c1I5T0L8]]ZK0dn2hg0_F0
+R2
+Ih5Ol13ziX3QC_ji_l?[RX1
+R3
+R0
+R4
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reset_ff.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reset_ff.v
+!i122 3
+L0 4 12
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reset_ff.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/components/reset_ff.v|
+!i113 1
+R7
+R8
+R9
+vriscv_cpu
+Z14 !s110 1730832029
+!i10b 1
+!s100 U5fGGBk9Xg3^nlX^e^d7B1
+R2
+IW9=3k44?9Ca^Kb=?l9SOR3
+R3
+R0
+w1729647576
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/riscv_cpu.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/riscv_cpu.v
+!i122 1
+L0 4 23
+R5
+r1
+!s85 0
+31
+Z15 !s108 1730832029.000000
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vt1c_riscv_cpu
+R14
+!i10b 1
+!s100 44PE@W>1gZe[37<J]`O`l2
+R2
+I^b?3a4BlK597Go1LPbGE32
+R3
+R0
+w1730802605
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/t1c_riscv_cpu.v
+!i122 0
+L0 4 37
+R5
+r1
+!s85 0
+31
+R15
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/code/t1c_riscv_cpu.v|
+!i113 1
+R7
+R12
+R9
+vtb
+R1
+!i10b 1
+!s100 TgE`EVQ6g>?S0:1=dX`Em2
+R2
+Ii]lT`=ZF_Z?FF^>hal=Fo2
+R3
+R0
+w1730809706
+8C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/.test/tb.v
+FC:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/.test/tb.v
+!i122 13
+L0 3 186
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/.test/tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/.test|C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/.test/tb.v|
+!i113 1
+R7
+!s92 -vlog01compat -work work +incdir+C:/intelFPGA_lite/20.1/eyrc_copy/eb_3758_task2b/t1c_riscv_cpu/.test
+R9

@@ -1,0 +1,35 @@
+|uart_tx
+clk_3125 => bit_index[0].CLK
+clk_3125 => bit_index[1].CLK
+clk_3125 => bit_index[2].CLK
+clk_3125 => parity_counter.CLK
+clk_3125 => check.CLK
+clk_3125 => tx_done~reg0.CLK
+clk_3125 => tx~reg0.CLK
+clk_3125 => counter[0].CLK
+clk_3125 => counter[1].CLK
+clk_3125 => counter[2].CLK
+clk_3125 => counter[3].CLK
+clk_3125 => state~6.DATAIN
+parity_type => tx.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => state.OUTPUTSELECT
+tx_start => counter.OUTPUTSELECT
+tx_start => counter.OUTPUTSELECT
+tx_start => counter.OUTPUTSELECT
+tx_start => counter.OUTPUTSELECT
+data[0] => Mux0.IN7
+data[1] => Mux0.IN6
+data[2] => Mux0.IN5
+data[3] => Mux0.IN4
+data[4] => Mux0.IN3
+data[5] => Mux0.IN2
+data[6] => Mux0.IN1
+data[7] => Mux0.IN0
+tx <= tx~reg0.DB_MAX_OUTPUT_PORT_TYPE
+tx_done <= tx_done~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

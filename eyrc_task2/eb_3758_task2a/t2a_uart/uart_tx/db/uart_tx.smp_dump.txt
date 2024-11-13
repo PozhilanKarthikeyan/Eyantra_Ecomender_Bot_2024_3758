@@ -1,0 +1,8 @@
+
+State Machine - |uart_tx|state
+Name state.ST_PARITY state.ST_DATA state.ST_START state.0000 state.ST_STOP 
+state.0000 0 0 0 0 0 
+state.ST_START 0 0 1 1 0 
+state.ST_DATA 0 1 0 1 0 
+state.ST_PARITY 1 0 0 1 0 
+state.ST_STOP 0 0 0 1 1 
